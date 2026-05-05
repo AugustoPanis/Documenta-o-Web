@@ -157,16 +157,14 @@ Melhora SEO e acessibilidade
 
 ```
 
-------|--------|-----------|  
-| HTML | Linguagem de marcação | Estrutura páginas web |  
-| `<html>` | Elemento raiz | Envolve todo o documento |  
-| `<head>` | Cabeçalho | Contém metadados |  
-| `<body>` | Corpo | Exibe conteúdo visível |  
-| `<h1>` | Título | Define títulos |  
-| `<p>` | Parágrafo | Exibe textos |  
-| `<a>` | Link | Navegação |  
-| `<img>` | Imagem | Exibe imagens |  
-| Semântica | Tags com significado | Melhora SEO e acessibilidade |
+------------------|-----------------------|--------------------------|  
+| CSS             | Linguagem de estilo   | Define aparência         |  
+| Seletores       | Identificadores       | Aplicam estilos          |  
+| Propriedades    | Regras                | Definem cores, tamanhos  |  
+| Box Model       | Modelo de caixa       | Controla espaçamento     |  
+| Flexbox         | Layout 1D             | Organiza elementos       |  
+| Grid            | Layout 2D             | Layout avançado          |  
+| Media Query     | Regra condicional     | Responsividade           |
 
 ### 🔧 Exemplo prático
 
@@ -319,14 +317,14 @@ h1 {
 
 ```
 
-------|--------|-----------|  
-| CSS | Linguagem de estilo | Define aparência |  
-| Seletores | Identificadores | Aplicam estilos |  
-| Propriedades | Regras | Definem cores, tamanhos |  
-| Box Model | Modelo de caixa | Controla espaçamento |  
-| Flexbox | Layout 1D | Organiza elementos |  
-| Grid | Layout 2D | Layout avançado |  
-| Media Query | Regra condicional | Responsividade |
+---------------|---------------------|-------------------------|  
+| CSS          | Linguagem de estilo | Define aparência        |  
+| Seletores    | Identificadores     | Aplicam estilos         |  
+| Propriedades | Regras              | Definem cores, tamanhos |  
+| Box Model    | Modelo de caixa     | Controla espaçamento    |  
+| Flexbox      | Layout 1D           | Organiza elementos      |  
+| Grid         | Layout 2D           | Layout avançado         |  
+| Media Query  | Regra condicional   | Responsividade          |
 
 ### 🔧 Exemplo prático
 
